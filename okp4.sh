@@ -96,5 +96,6 @@ echo "======================================================"
 sleep 1
 
 sudo systemctl daemon-reload
+systemctl restart systemd-journald.service
 sudo systemctl enable okp4d
 sudo systemctl restart okp4d && sudo journalctl -u okp4d -f -o cat
