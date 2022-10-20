@@ -55,6 +55,19 @@ okp4d keys add <CÜZDANADI> --recover
 
 ![image](https://user-images.githubusercontent.com/101462877/196545734-076fd76e-5cb3-4fc9-8799-488e7cf1999e.png)
 
+## Explorer'da cüzdan arattığınızda  aşağıdaki gibi görünüyorsa, adresinizi alttaki url'nin sonuna ekleyerek aratın.
+
+
+![image](https://user-images.githubusercontent.com/101462877/196958202-44c9f352-ab5f-444f-acdd-7af5dcb8c382.png)
+
+```
+https://explore.okp4.network/okp4%20testnet/account/okp41my2k20ll3pd7xasdrxyxxxxxxxxxx
+```
+
+![image](https://user-images.githubusercontent.com/101462877/196958431-092fa974-78a1-4ca9-8b3f-258cc9719588.png)
+
+
+
 ## Validator oluşturalım.
 
 
