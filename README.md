@@ -15,13 +15,17 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 - [Twitter](https://twitter.com/OKP4_Protocol/)
 - [Discord](https://discord.gg/wPtHgWeRUv)
 
-# 1a) Script ile kurulum.
+# 1a-1) Snapshot'lı script ile kurulum.
 
 ```
 wget -O okp4.sh https://raw.githubusercontent.com/thisislexar/OKP4-Protocol-Testnet/main/okp4.sh && chmod +x okp4.sh && ./okp4.sh
 ```
 
+# 1a-2) Snapshot'sız script ile kurulum.
 
+```
+wget -O okp4.sh https://raw.githubusercontent.com/thisislexar/OKP4-Protocol-Testnet/main/okp4-noSS.sh && chmod +x okp4-noSS.sh && ./okp4-noSS.sh
+```
 
 # 1b) Manuel kurulum.
 
