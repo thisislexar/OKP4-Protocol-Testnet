@@ -24,7 +24,7 @@ wget -O okp4.sh https://raw.githubusercontent.com/thisislexar/OKP4-Protocol-Test
 # 1a-2) Snapshot'sız script ile kurulum.
 
 ```
-wget -O okp4.sh https://raw.githubusercontent.com/thisislexar/OKP4-Protocol-Testnet/main/okp4-noSS.sh && chmod +x okp4-noSS.sh && ./okp4-noSS.sh
+wget -O okp4-noSS.sh https://raw.githubusercontent.com/thisislexar/OKP4-Protocol-Testnet/main/okp4-noSS.sh && chmod +x okp4-noSS.sh && ./okp4-noSS.sh
 ```
 
 # 1b) Manuel kurulum.
