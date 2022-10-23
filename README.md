@@ -43,12 +43,14 @@ sudo journalctl -u okp4d -f -o cat
 ## Cüzdan oluşturalım.
 ```
 source $HOME/.bash_profile
+```
+
+```
 okp4d keys add <CÜZDANADI>
 ``` 
 Var olan bir cüzdanı kullanmak isterseniz:
 
 ```
-source $HOME/.bash_profile
 okp4d keys add <CÜZDANADI> --recover
 ``` 
 
