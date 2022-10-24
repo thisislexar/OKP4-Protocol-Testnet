@@ -39,7 +39,7 @@ okp4d config keyring-backend file
 okp4d config node tcp://localhost:26657
 ```
 ```
-ollod init <NODEADINIZ> --chain-id okp4-nemeton
+okp4d init <NODEADINIZ> --chain-id okp4-nemeton
 ```
 
 # Genesis dosyasını indiriyoruz.
